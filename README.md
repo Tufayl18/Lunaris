@@ -41,7 +41,7 @@ This project aims to develop a sophisticated autonomous rover capable of explori
 
 ### Rover Model
 
-![Rover Model](https://github.com/Tufayl18/Lunaris/blob/main/images/Lunaris_Model.jpg)
+![Rover Model] <img src="https://github.com/Tufayl18/Lunaris/blob/main/images/Lunaris_Model.jpg" alt="Rover Model" width="400" height="400"/>
 
 ### Sample Output
 

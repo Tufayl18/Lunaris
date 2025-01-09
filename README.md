@@ -41,15 +41,15 @@ This project aims to develop a sophisticated autonomous rover capable of explori
 
 ### Rover Model
 
-![Rover Model](../Lunaris/images/Lunaris_Model.jpg)
+![Rover Model](https://github.com/Tufayl18/Lunaris/blob/main/images/Lunaris%20Model.jpg)
 
 ### Sample Output
 
-![Sample Output](../Lunaris//images/PSR.jpg)
+![Sample Output](https://github.com/Tufayl18/Lunaris/blob/main/images/PSR.jpg)
 
 ### Terminal Output
 
-![Terminal Output](../Lunaris//images/Terminal_Output.png)
+![Terminal Output](https://github.com/Tufayl18/Lunaris/blob/main/images/Terminal_Output.png)
 
 ## License
 
